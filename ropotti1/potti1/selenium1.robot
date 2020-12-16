@@ -19,4 +19,6 @@ MyThirdTest
    #[Tags]    the water
     Log    Have A Nice Day. (:
     
-    
+MyFourthTest
+   #[Tags]    the water
+    Log    Somthingsomthing44. (:
